@@ -2,6 +2,7 @@
 
 
 @media screen and (min-width: 786px) and (max-width: 992px) {
+    /* CONFIGURAÇÃO PARA TABLET*/
 
 body{
     background-image: linear-gradient(to top, #D96704,#8C5C51);
@@ -22,6 +23,7 @@ section#login > div#formulario{
 
 }
 @media screen and (min-width: 992px) {
+    /* CONFIGURAÇÃO PARA DESKTOP*/
     body{
         background-image: linear-gradient(to top, #D96704,#8C5C51);
     }
